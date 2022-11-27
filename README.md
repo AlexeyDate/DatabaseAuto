@@ -1,4 +1,4 @@
-# This app show database of some setizens and their cars
+# This app shows database of some setizens and their cars
 
 **contains 3 tables**
 * id, name, surname
