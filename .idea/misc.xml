@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Programs/programming/Database/app/src/main/res/layout/activity_added_data.xml" value="0.15989583333333332" />
+        <entry key="..\:/Programs/programming/Database/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/Programs/programming/Database/app/src/main/res/layout/activity_main2.xml" value="0.11820652173913043" />
+        <entry key="..\:/Programs/programming/Database/app/src/main/res/layout/content_main.xml" value="0.16530797101449277" />
+        <entry key="..\:/Programs/programming/Database/app/src/main/res/layout/fragment_first.xml" value="0.16530797101449277" />
+        <entry key="..\:/Programs/programming/Database/app/src/main/res/layout/fragment_second.xml" value="0.16530797101449277" />
+        <entry key="..\:/Programs/programming/Database/app/src/main/res/layout/fragment_table1.xml" value="0.5297532656023222" />
+        <entry key="..\:/Programs/programming/Database/app/src/main/res/layout/fragment_table2.xml" value="0.16717325227963525" />
+        <entry key="..\:/Programs/programming/Database/app/src/main/res/layout/fragment_table3.xml" value="0.16033434650455927" />
+        <entry key="..\:/Programs/programming/Database/app/src/main/res/layout/list_item.xml" value="0.22" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
